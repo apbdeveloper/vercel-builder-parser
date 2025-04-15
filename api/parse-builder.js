@@ -3,7 +3,7 @@ import cheerio from 'cheerio';
 export const config = {
   api: {
     bodyParser: {
-      sizeLimit: '1mb'
+      sizeLimit: '5mb'
     }
   }
 };
